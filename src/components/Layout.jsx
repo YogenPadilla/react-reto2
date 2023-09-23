@@ -10,7 +10,7 @@ const Layout = ({ children }) => {
       className={`min-h-screen max-w-[1440px] m-auto border border-[#000000] ${inter.className}`}
     >
       <Container variant="flexColCenter" className="relative w-full ">
-      <div className=""
+      <div className="opacity-30"
           style={{
             backgroundImage: "url(/assets/bg-hero.png)",
             backgroundSize: "cover",
